@@ -1,0 +1,27 @@
+Rohith A M  
+Email: rohith@example.com  
+Phone: +91 98765 00000  
+LinkedIn: https://www.linkedin.com/in/rohith-a-m-4a8aba26b/
+GitHub: https://github.com/JustCool0208 
+Location: Mangalore, India
+
+EDUCATION  
+Bachelor of Technology (B.Tech) in Artificial Intelligence  
+NITK Surathkal, CGPA: 9.67, 2024 – 2028
+
+PROJECTS  
+Built a Resume Parser using Python, NLP (spaCy), and Streamlit to extract structured data from resumes.  
+Developed a Sentiment Analysis web app using Flask and BERT for real-time Twitter data.  
+Created a CNN-based facial recognition model with 95% accuracy using TensorFlow and OpenCV.
+
+SKILLS  
+Python, Machine Learning, Deep Learning, NLP, TensorFlow, Keras, PyTorch  
+SQL, MongoDB, HTML, CSS, JavaScript, FastAPI, Git, Docker, Linux
+
+INTERNSHIPS  
+AI Intern at Microsoft
+
+CERTIFICATIONS  
+Coursera – Deep Learning Specialization by Andrew Ng  
+
+
